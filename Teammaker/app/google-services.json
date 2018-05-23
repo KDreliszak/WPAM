@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150349995281",
+    "firebase_url": "https://teammaker-ea670.firebaseio.com",
+    "project_id": "teammaker-ea670",
+    "storage_bucket": "teammaker-ea670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150349995281:android:7f67a380d8535f01",
+        "android_client_info": {
+          "package_name": "com.example.kajet.teammaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150349995281-ikc0m2o24sfdd8lohdq8gkhoqekoilj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kajet.teammaker",
+            "certificate_hash": "8ec5813c9f10c24ddaa10648851de3e55bc45ae7"
+          }
+        },
+        {
+          "client_id": "150349995281-07sl8actgkqs4eai40qadbi4afusif46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_E5Act8Qcx0EZUvI8M9x3NhW8dU1xpiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150349995281-07sl8actgkqs4eai40qadbi4afusif46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeamMaker</string>
+    <string name="reg_button">Register</string>
+    <string name="login_text">Touch me to register</string>
+    <string name="login_button">Login</string>
+    <string name="menu_signout">Sign Out</string>
+    <string name="menu_item">Item</string>
+</resources>
